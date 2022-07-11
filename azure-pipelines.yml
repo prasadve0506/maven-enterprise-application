@@ -12,10 +12,10 @@ variables:
   azureSubscription: 'dddaa89e-78da-4e33-bb65-f8cc293bc727'
 
   # Web app name
-  webAppName: ''
+  webAppName: 'mavenwebapp'
 
   # Environment name
-  environmentName: ''
+  environmentName: 'QAG'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
